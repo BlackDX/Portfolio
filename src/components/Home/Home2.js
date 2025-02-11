@@ -19,22 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Designer aus Mecklenburg Vorpommern, der von Anfang an ohne Hilfe designt hat.🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Ich designe seit
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> 3+ Jahren. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Ich designe &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Landes- & Bundespolizei Fahrzeuge  &nbsp; Rettungsdienst & Feuerwehr Fahrzeuge  &nbsp; Kommunale Fahrzeuge  &nbsp; und vieles mehr</b>
               </i>
               <br />
               <br />
